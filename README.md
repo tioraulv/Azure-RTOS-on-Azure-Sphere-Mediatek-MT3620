@@ -49,7 +49,7 @@ To prepare your device on Windows:
 1. Enter the following azsphere command:
 
    ```cmd
-   azsphere device enable-development --enablertcoredebugging
+   azsphere device enable-development --enable-rt-core-debugging
    ```
 
 1. Close the window after the command completes because administrator privilege is no longer required. As a best practice, you should always use the lowest privilege that can accomplish a task.
